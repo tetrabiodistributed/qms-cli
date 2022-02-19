@@ -1,3 +1,5 @@
 = qms-cli
 
-A command-line interface (CLI) for quality management systems (QMS)
+A command-line interface (CLI) for quality management systems (QMS).
+
+qms-cli is a reference implementation of the https://tetrabiodistributed.github.io/docs-as-code-for-medical-oshw[Docs-as-Code for Medical Open-Source Hardware] methodology.
